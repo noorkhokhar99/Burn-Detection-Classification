@@ -39,7 +39,7 @@ Below is the file: `1st_degree_2.jpg` (which is sunburn so the model should know
 
 <div align="center">
     <a href="./">
-        <img src="./inference/images/1st_degree_2.jpg" width="59%"/>
+<img src="[ot%201444-04-10%20at%2012.20.59%20AM.png](https://github.com/noorkhokhar99/Burn-Detection-Classification/blob/main/Screen%20Shot%201444-04-10%20at%2012.35.44%20AM.png)">
     </a>
 </div>
 
