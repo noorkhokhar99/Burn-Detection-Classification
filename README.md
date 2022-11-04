@@ -1,24 +1,36 @@
+# Egg-detection-count
 
 
-### Inferencing on your local machine (with the most accurate model):
 
-####  Installation:
 
-``` shell
-# or just download this entire repo
-git clone https://github.com/Michael-OvO/Burn-Detection-Classification.git
+
+### Steps to run Code
+- Clone the repository.
 ```
+git clone https://github.com/noorkhokhar99/Burn-Detection-Classification.git
+```
+- Goto the cloned folder.
+```
+cd Burn-Detection-Classification
 
-#### Install Dependencies (it is recommended that you set up a virtual environment through anaconda):
-
-``` shell
-cd Burn-Detection-Classification/
+```
+- Upgrade pip with mentioned command below.
+```
+pip install --upgrade pip
+```
+- Install requirements with mentioned command below.
+```
 pip install -r requirements.txt
 ```
+- Run the code with mentioned command below.
+```
+
+```
+
 
 #### Begin Inferencing:
 
-Download the pre-trained weights and place them into the same master folder: [Skin_burn_2022_8_21.pt](https://github.com/Michael-OvO/Burn-Detection-Classification/releases/download/v1.0.0/skin_burn_2022_8_21.pt)
+Download the pre-trained weights and place them into the same master folder: [Skin_burn_2022_8_21.pt]()
 
 The sample images can be found in the folder inference, the name of each image corresponds to the ground truth value of each image(the model should predict those values after each run).
 
