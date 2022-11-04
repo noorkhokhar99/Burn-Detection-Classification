@@ -51,7 +51,7 @@ python detect.py --weights Skin_burn_2022_8_21.pt  --source yourvideo.mp4
 
 On image:
 ``` shell
-python detect.py --weights Skin_burn_2022_8_21.pt --source inference/images/first_degree_2.jpg
+ python detect.py --weights Skin_burn_2022_8_21.pt --source inference/images/1st_degree_1.jpg
 ```
 
 <div align="center">
