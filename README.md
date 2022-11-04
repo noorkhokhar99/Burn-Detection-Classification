@@ -1,4 +1,5 @@
-# Egg-detection-count
+# Skin Burn Detector using Yolov7
+
 
 
 
