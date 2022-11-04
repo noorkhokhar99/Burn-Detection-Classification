@@ -58,7 +58,7 @@ python detect.py --weights Skin_burn_2022_8_21.pt --source inference/images/firs
 
 <div align="center">
     <a href="./">
-        <img src="./inference/results/1st_degree_2.jpg" width="59%"/>
+<img src="https://github.com/noorkhokhar99/Burn-Detection-Classification/blob/main/Screen%20Shot%201444-04-10%20at%2012.20.59%20AM.png">
     </a>
 </div>
 
