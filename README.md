@@ -3,10 +3,6 @@ Skin Burn Detection </H1>
 <h4 align = "center">
 Skin Burn Detector using Yolov7</h4>
 <p align = "center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Michael-OvO/Burn-Detection-Classification?label=Please%20Support%20by%20Giving%20a%20Star&logoColor=blue&style=social">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Michael-OvO?logoColor=blue&style=social">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Michael-OvO/Burn-Detection-Classification?logoColor=blue&style=social">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/Michael-OvO/Burn-Detection-Classification?logoColor=blue&style=social">
 </p>
 <p align = "center"> <b> Author: Michael Wang</b> </p>
 <p align = "center" style="bold">Supported Environment:</p> 
