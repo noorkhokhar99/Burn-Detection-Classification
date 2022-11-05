@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 #### Begin Inferencing:
 
-Download the pre-trained weights and place them into the same master folder: [Skin_burn_2022_8_21.pt]()
+Download the pre-trained weights and place them into the same master folder: [Skin_burn_2022_8_21.pt](https://github.com/Michael-OvO/Burn-Detection-Classification/releases/download/v1.0.0/skin_burn_2022_8_21.pt)
 
 The sample images can be found in the folder inference, the name of each image corresponds to the ground truth value of each image(the model should predict those values after each run).
 
